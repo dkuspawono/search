@@ -28,3 +28,4 @@ mv ../firefox/search.update.rdf search.rdf
 mv ../firefox/search.xpi .
 unzip search.xpi -d tmp
 rm search.xpi
+
