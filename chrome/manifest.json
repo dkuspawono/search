@@ -48,4 +48,5 @@
    "permissions": [ "chrome://favicon/", "http://*/*", "https://*/*", "contextMenus", "cookies", "history", "idle", "notifications", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "management" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "2.0.8"
+   
 }
